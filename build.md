@@ -1,5 +1,7 @@
 Boost: 1.12.12  
+YouTube-Music: 7.29.52  
 YouTube: 19.47.53  
+Google-Photos: 7.13.0.715969179  
 inshorts: 6.8.16  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
