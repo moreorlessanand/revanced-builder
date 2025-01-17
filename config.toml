@@ -13,3 +13,7 @@ arch = "arm64-v8a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/ruben-mayayo/boost-for-reddit"
 patcher-args = "-Oclient-id=v17_APk4YnTwWyhTs9xV0Q "
 included-patches = "'Spoof client'"
+
+[Google-Photos]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos"
+arch = "arm64-v8a"
