@@ -11,4 +11,4 @@ arch = "arm64-v8a"
 
 [Boost]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/ruben-mayayo/boost-for-reddit"
-patcher-args = "-Oclient-id=v17_APk4YnTwWyhTs9xV0Q"
+patcher-args = "-Oclient-id=v17_APk4YnTwWyhTs9xV0Q "
