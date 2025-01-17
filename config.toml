@@ -4,3 +4,7 @@ arch = "arm64-v8a"
 
 [YouTube]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+
+[YouTube Music]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+arch = "arm64-v8a"
