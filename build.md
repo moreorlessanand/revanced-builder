@@ -1,4 +1,3 @@
-YouTube: 19.47.53  
 YouTube-Music: 7.29.52  
 inshorts: 6.8.16  
 
