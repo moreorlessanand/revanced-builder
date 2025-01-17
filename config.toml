@@ -18,10 +18,6 @@ included-patches = "'Spoof client'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos"
 arch = "arm64-v8a"
 
-[Amazon-Shopping]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-shopping"
-arch = "arm64-v8a"
-
 [Instagram]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram"
 arch = "arm64-v8a"
