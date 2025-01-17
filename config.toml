@@ -9,7 +9,6 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 arch = "arm64-v8a"
 
-[Reddit]
-uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
-patches-source = "inotia00/revanced-patches"
-integrations-source = "inotia00/revanced-integrations"
+[Boost]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/ruben-mayayo/boost-for-reddit"
+patcher-args = "-Oclient-id=v17_APk4YnTwWyhTs9xV0Q"
