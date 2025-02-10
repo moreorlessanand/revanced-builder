@@ -1,6 +1,7 @@
 [inshorts]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/inshorts-formerly-news-in-shorts/inshorts-news-in-60-words-2"
 arch = "arm64-v8a"
+apkmirror-dpi = "360-480dpi"
 
 [YouTube]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
@@ -17,6 +18,9 @@ included-patches = "'Spoof client'"
 [Google-Photos]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos"
 arch = "arm64-v8a"
+apkmirror-dpi = "360-480dpi"
 
 [Instagram]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram"
+arch = "arm64-v8a"
+apkmirror-dpi = "360-480dpi"
