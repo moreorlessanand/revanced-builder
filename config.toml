@@ -20,4 +20,3 @@ arch = "arm64-v8a"
 
 [Instagram]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram"
-arch = "arm64-v8a"
