@@ -6,9 +6,21 @@ uptodown-dlurl = "https://inshorts.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 
+[YouTube-Extended]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+patches-source = "inotia00/revanced-patches"
+cli-source = "inotia00/revanced-cli"
+
 [YouTube-Music]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+
+[YouTube-Music]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+patches-source = "inotia00/revanced-patches"
+cli-source = "inotia00/revanced-cli"
 
 [Boost]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/ruben-mayayo/boost-for-reddit"
