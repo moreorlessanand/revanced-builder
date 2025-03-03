@@ -12,6 +12,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
+enabled = false
 
 [YouTube-Music]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
@@ -24,6 +25,7 @@ uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 arch = "arm64-v8a"
+enabled = false
 
 [Boost]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/ruben-mayayo/boost-for-reddit"
