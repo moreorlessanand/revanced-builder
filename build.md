@@ -1,7 +1,7 @@
-Boost: 1.12.12  
+Infinity: 7.4.3  
 Google-Photos: 7.19.0.733486757  
-Instagram: 370.1.0.43.96  
 YouTube: 19.47.53  
+Instagram: 370.1.0.43.96  
 YouTube-Music: 8.05.51  
 inshorts: 6.9.7  
 
