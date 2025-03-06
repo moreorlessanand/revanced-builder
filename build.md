@@ -1,7 +1,7 @@
 Boost: 1.12.12  
+Google-Photos: 7.19.0.733486757  
+Instagram: 370.1.0.43.96  
 YouTube: 19.47.53  
-Google-Photos: 7.18.0.729565054  
-Instagram: 369.0.0.46.101  
 YouTube-Music: 8.05.51  
 inshorts: 6.9.7  
 
