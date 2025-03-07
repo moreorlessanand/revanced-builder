@@ -1,8 +1,6 @@
 Infinity: 7.4.3  
-YouTube: 19.47.53  
-Instagram: 371.0.0.1.89  
 Google-Photos: 7.19.0.733486757  
-YouTube-Music: 8.05.51  
+YouTube: 19.47.53  
 inshorts: 6.9.11  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
