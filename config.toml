@@ -13,7 +13,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 cli-source = "revanced/revanced-cli"
 riplib = false
 
-[Infinity+]
+[InfinityPlus]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit-plus/"
 cli-source = "revanced/revanced-cli"
 patcher-args = "-Oclient-id=v17_APk4YnTwWyhTs9xV0Q "
