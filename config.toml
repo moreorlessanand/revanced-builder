@@ -1,19 +1,31 @@
 [inshorts]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/inshorts-formerly-news-in-shorts/inshorts-news-in-60-words-2/"
+cli-source = "revanced/revanced-cli"
+riplib = false
 
 [YouTube]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
+cli-source = "revanced/revanced-cli"
+riplib = false
 
 [YT-Music]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
+cli-source = "revanced/revanced-cli"
+riplib = false
 
 [Infinity+]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit-plus/"
+cli-source = "revanced/revanced-cli"
 patcher-args = "-Oclient-id=v17_APk4YnTwWyhTs9xV0Q "
 included-patches = "'Spoof client'"
+riplib = false
 
 [Photos]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
+cli-source = "revanced/revanced-cli"
+riplib = false
 
 [Instagram]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
+cli-source = "revanced/revanced-cli"
+riplib = false
