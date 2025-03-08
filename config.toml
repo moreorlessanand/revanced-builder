@@ -1,26 +1,19 @@
 [inshorts]
-uptodown-dlurl = "https://inshorts.en.uptodown.com/android"
-arch = "arm64-v8a"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/inshorts-formerly-news-in-shorts/inshorts-news-in-60-words-2/"
 
 [YouTube]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
 [YouTube-Music]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-arch = "arm64-v8a"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 
 [Infinity]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit-plus"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit-plus/"
 patcher-args = "-Oclient-id=v17_APk4YnTwWyhTs9xV0Q "
 included-patches = "'Spoof client'"
 
 [Google-Photos]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos"
-uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
-arch = "arm64-v8a"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 
 [Instagram]
-uptodown-dlurl = "https://instagram.en.uptodown.com/android"
-arch = "arm64-v8a"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
