@@ -1,4 +1,6 @@
 InfinityPlus: 7.4.3  
+YT-Music: 8.05.51  
+Photos: 7.19.0.733486757  
 YouTube: 19.47.53  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
