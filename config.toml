@@ -4,15 +4,15 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/inshorts-formerly-news-in-short
 [YouTube]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
-[YouTube-Music]
+[YT-Music]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 
-[Infinity]
+[Infinity+]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit-plus/"
 patcher-args = "-Oclient-id=v17_APk4YnTwWyhTs9xV0Q "
 included-patches = "'Spoof client'"
 
-[Google-Photos]
+[Photos]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 
 [Instagram]
