@@ -6,13 +6,13 @@ riplib = false
 [YouTube]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 cli-source = "revanced/revanced-cli"
-arch = "universal"
 riplib = false
 
 [YouTube-Extended]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
+arch = "universal"
 riplib = false
 
 [YT-Music]
