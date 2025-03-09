@@ -18,14 +18,12 @@ riplib = false
 [YT-Music]
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 cli-source = "revanced/revanced-cli"
-arch = "arm64-v8a"
 riplib = false
 
 [YT-Music-Extended]
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
-arch = "arm64-v8a"
 riplib = false
 
 [InfinityPlus]
