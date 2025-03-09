@@ -1,5 +1,6 @@
-InfinityPlus: 7.4.3  
 Instagram: 370.1.0.43.96  
+InfinityPlus: 7.4.3  
+YT-Music: 8.05.51  
 Photos: 7.19.0.733486757  
 YT-Music-Extended: 7.16.53  
 YouTube: 19.47.53  
