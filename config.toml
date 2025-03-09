@@ -9,8 +9,9 @@ cli-source = "revanced/revanced-cli"
 riplib = false
 
 [YT-Music]
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 cli-source = "revanced/revanced-cli"
+arch = "arm64-v8a"
 riplib = false
 
 [InfinityPlus]
