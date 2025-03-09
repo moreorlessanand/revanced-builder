@@ -9,10 +9,9 @@ cli-source = "revanced/revanced-cli"
 riplib = false
 
 [YouTube-Extended]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
-arch = "universal"
 riplib = false
 
 [YT-Music]
