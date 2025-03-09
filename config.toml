@@ -8,9 +8,22 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 cli-source = "revanced/revanced-cli"
 riplib = false
 
+[YouTube-Extended]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
+patches-source = "inotia00/revanced-patches"
+cli-source = "inotia00/revanced-cli"
+riplib = false
+
 [YT-Music]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 cli-source = "revanced/revanced-cli"
+arch = "arm64-v8a"
+riplib = false
+
+[YT-Music-Extended]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
+patches-source = "inotia00/revanced-patches"
+cli-source = "inotia00/revanced-cli"
 arch = "arm64-v8a"
 riplib = false
 
