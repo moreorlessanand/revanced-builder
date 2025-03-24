@@ -28,7 +28,6 @@ arch = "arm64-v8a"
 riplib = false
 
 [Instagram]
-#uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
 cli-source = "revanced/revanced-cli"
 arch = "arm64-v8a"
