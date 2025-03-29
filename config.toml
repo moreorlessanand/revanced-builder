@@ -26,3 +26,8 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 cli-source = "revanced/revanced-cli"
 arch = "arm64-v8a"
 riplib = false
+
+[Spotify]
+uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+cli-source = "revanced/revanced-cli"
+riplib = false
