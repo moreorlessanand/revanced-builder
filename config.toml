@@ -1,5 +1,4 @@
 [inshorts]
-version = "6.10.3"
 uptodown-dlurl = "https://inshorts.en.uptodown.com/android"
 cli-source = "revanced/revanced-cli"
 riplib = false
