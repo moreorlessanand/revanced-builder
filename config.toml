@@ -28,9 +28,3 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 cli-source = "revanced/revanced-cli"
 arch = "arm64-v8a"
 riplib = false
-
-[Instagram]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
-cli-source = "revanced/revanced-cli"
-arch = "arm64-v8a"
-riplib = false
