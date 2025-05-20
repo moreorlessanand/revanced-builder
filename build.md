@@ -1,5 +1,6 @@
 InfinityPlus: 7.5.0  
 YT-Music: 8.05.51  
+YouTube: 20.12.46  
 Photos: 7.29.0.757514586  
 inshorts: 6.10.9  
 
