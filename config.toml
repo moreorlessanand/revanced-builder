@@ -29,12 +29,6 @@ cli-source = "revanced/revanced-cli"
 arch = "arm64-v8a"
 riplib = false
 
-[Spotify]
-uptodown-dlurl = "https://spotify.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
-cli-source = "revanced/revanced-cli"
-riplib = false
-
 [Proton-Mail]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/proton-technologies-ag/protonmail-encrypted-email/"
 cli-source = "revanced/revanced-cli"
