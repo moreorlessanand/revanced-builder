@@ -30,7 +30,7 @@ arch = "arm64-v8a"
 riplib = false
 
 [Spotify]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts/"
+uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 cli-source = "revanced/revanced-cli"
 riplib = false
 
