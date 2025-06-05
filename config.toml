@@ -31,6 +31,7 @@ riplib = false
 
 [Spotify]
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
 cli-source = "revanced/revanced-cli"
 riplib = false
 
