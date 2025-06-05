@@ -1,7 +1,7 @@
 InfinityPlus: 7.5.1  
+YT-Music: 8.05.51  
 Proton-Mail: 4.11.0  
 Photos: 7.32.0.765953717  
-YT-Music: 8.05.51  
 YouTube: 20.12.46  
 inshorts: 6.11.3  
 
