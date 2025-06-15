@@ -33,3 +33,8 @@ riplib = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/proton-technologies-ag/protonmail-encrypted-email/"
 cli-source = "revanced/revanced-cli"
 riplib = false
+
+[Strava]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/strava-inc/strava-run-bike/"
+cli-source = "revanced/revanced-cli"
+riplib = false
