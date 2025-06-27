@@ -1,4 +1,5 @@
 InfinityPlus: 7.5.1  
+Cricbuzz: 6.23.02  
 Proton-Mail: 4.12.1  
 Photos: 7.35.0.774533729  
 YT-Music: 8.05.51  
