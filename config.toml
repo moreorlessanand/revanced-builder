@@ -39,6 +39,6 @@ cli-source = "revanced/revanced-cli"
 riplib = false
 
 [Cricbuzz]
-uptodown-dlurl = "https://www.apkmirror.com/apk/cricbuzz-com/cricbuzz-live-cricket-scores-news/"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/cricbuzz-com/cricbuzz-live-cricket-scores-news/"
 cli-source = "revanced/revanced-cli"
 riplib = false
