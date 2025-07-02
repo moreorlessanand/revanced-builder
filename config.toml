@@ -1,8 +1,3 @@
-[Amazon]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-shopping/"
-cli-source = "revanced/revanced-cli"
-riplib = false
-
 [Cricbuzz]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/cricbuzz-com/cricbuzz-live-cricket-scores-news/"
 cli-source = "revanced/revanced-cli"
@@ -17,12 +12,6 @@ riplib = false
 
 [inshorts]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/inshorts-formerly-news-in-shorts/inshorts-news-in-60-words-2/"
-cli-source = "revanced/revanced-cli"
-arch = "arm64-v8a"
-riplib = false
-
-[PrimeVideo]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-prime-video/"
 cli-source = "revanced/revanced-cli"
 arch = "arm64-v8a"
 riplib = false
