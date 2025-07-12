@@ -1,5 +1,6 @@
 [Cricbuzz]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/cricbuzz-com/cricbuzz-live-cricket-scores-news/"
+uptodown-dlurl = "https://cricbuzz-cricket-scores-and-news.en.uptodown.com/android"
 cli-source = "revanced/revanced-cli"
 riplib = false
 
