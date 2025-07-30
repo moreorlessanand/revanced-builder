@@ -4,19 +4,19 @@ parallel-jobs = 1
 [YouTube]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 cli-source = "revanced/revanced-cli"
-build-mode = "both"
+build-mode = "module"
 riplib = false
 
 [Music]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 cli-source = "revanced/revanced-cli"
-build-mode = "both"
+build-mode = "module"
 riplib = false
 
 [GooglePhotos]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 cli-source = "revanced/revanced-cli"
-build-mode = "both"
+build-mode = "module"
 riplib = false
 
 [Cricbuzz]
