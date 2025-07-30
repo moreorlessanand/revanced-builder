@@ -1,5 +1,4 @@
 enable-magisk-update = true
-parallel-jobs = 1
 
 [YouTube]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
@@ -9,12 +8,14 @@ riplib = false
 
 [Music]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 cli-source = "revanced/revanced-cli"
 build-mode = "module"
 riplib = false
 
 [GooglePhotos]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
+uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 cli-source = "revanced/revanced-cli"
 build-mode = "module"
 riplib = false
