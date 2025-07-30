@@ -1,3 +1,24 @@
+enable-magisk-update = true
+parallel-jobs = 1
+
+[YouTube]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+cli-source = "revanced/revanced-cli"
+build-mode = "both"
+riplib = false
+
+[Music]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+cli-source = "revanced/revanced-cli"
+build-mode = "both"
+riplib = false
+
+[GooglePhotos]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
+cli-source = "revanced/revanced-cli"
+build-mode = "both"
+riplib = false
+
 [Cricbuzz]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/cricbuzz-com/cricbuzz-live-cricket-scores-news/"
 uptodown-dlurl = "https://cricbuzz-cricket-scores-and-news.en.uptodown.com/android"
