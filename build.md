@@ -1,9 +1,9 @@
-InfinityPlus: 7.5.1  
-GooglePhotos: 7.40.0.792701077  
-Music: 8.31.51  
+InfinityPlus: 8.0.0  
 Cricbuzz: 6.24.01  
+Music: 8.33.53  
+GooglePhotos: 7.41.0.795526889  
 YouTube: 20.13.41  
-inshorts: 6.11.14  
+inshorts: 6.11.15  
 CLI: revanced/revanced-cli-5.0.1-all.jar  
-Patches: ReVanced/patches-5.33.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.33.0)  
+Patches: ReVanced/patches-5.34.0.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.34.0)  
