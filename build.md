@@ -5,5 +5,5 @@ YouTube: 20.13.41
 inshorts: 6.11.20  
 TikTok: 36.5.4  
 CLI: revanced/revanced-cli-5.0.1-all.jar  
-Patches: ReVanced/patches-5.36.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.36.0)  
+Patches: ReVanced/patches-5.37.0.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.37.0)  
