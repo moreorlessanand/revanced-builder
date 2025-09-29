@@ -1,5 +1,6 @@
 InfinityPlus: 8.0.4  
 Music: 8.10.52  
+Cricbuzz: 6.24.01  
 GooglePhotos: 7.47.0.810631069  
 YouTube: 20.14.43  
 inshorts: 6.11.20  
