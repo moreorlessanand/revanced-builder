@@ -1,9 +1,9 @@
 Cricbuzz: 6.24.01  
-InfinityPlus: 8.0.7  
+InfinityPlus: 8.0.8  
 Music: 8.10.52  
-GooglePhotos: 7.53.0.827222094  
+GooglePhotos: 7.55.0.835314738  
 YouTube: 20.14.43  
-inshorts: 6.11.24  
+inshorts: 6.11.31  
 TikTok: 36.5.4  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
