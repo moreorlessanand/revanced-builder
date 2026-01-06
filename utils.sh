@@ -39,7 +39,7 @@ toml_get() {
 pr() { echo -e "\033[0;32m[+] ${1}\033[0m"; }
 epr() {
 	echo >&2 -e "\033[0;31m[-] ${1}\033[0m"
-	if [ "${GITHUB_REPOSITORY-}" ]; then echo -e "::error::utils.sh [-] ${1}\n"; fi
+	if [ "${GITHUB_REPOSITORY-}" ]; then echo >&2 -e "::error::utils.sh [-] ${1}\n"; fi
 }
 abort() {
 	epr "ABORT: ${1-}"
@@ -99,7 +99,7 @@ get_prebuilts() {
 			name=$(jq -r .name <<<"$asset")
 			file="${dir}/${name}"
 			gh_dl "$file" "$url" >&2 || return 1
-			echo "$tag: $(cut -d/ -f1 <<<"$src")/${name}  " >>"${cl_dir}/changelog.md"
+			echo "$tag: $(cut -d/ -f1 <<<"$src")/${name}  " >>"${cl_dir}/changelog.md"
 		else
 			grab_cl=false
 			local for_err=$file
