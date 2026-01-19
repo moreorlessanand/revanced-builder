@@ -1,9 +1,10 @@
 InfinityPlus: 8.0.8  
 Music: 8.10.52  
 Cricbuzz: 6.24.01  
+GooglePhotos: 7.59.0.856624550  
+TikTok: 36.5.4  
 YouTube: 20.14.43  
 inshorts: 6.11.44  
-TikTok: 36.5.4  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
