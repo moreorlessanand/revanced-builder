@@ -1,6 +1,7 @@
 InfinityPlus: 8.0.8  
 Music: 8.10.52  
 Cricbuzz: 6.24.01  
+YouTube: 20.14.43  
 inshorts: 6.11.44  
 TikTok: 36.5.4  
 
