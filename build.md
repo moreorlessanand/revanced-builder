@@ -1,9 +1,10 @@
+InfinityPlus: 8.1.1  
 Cricbuzz: 6.24.01  
-Music: 8.10.52  
 GooglePhotos: 7.62.0.865608293  
-TikTok: 36.5.4  
-YouTube: 20.14.43  
+Music: 8.10.52  
 inshorts: 6.12.1  
+YouTube: 20.14.43  
+TikTok: 36.5.4  
 
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store
   
