@@ -31,7 +31,7 @@ riplib = false
 
 [InfinityPlus]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit-plus/"
-uptodown-dlurl = "https://infinity-for-reddit.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/moreorlessanand-apks"
 cli-source = "revanced/revanced-cli"
 patcher-args = "-Oclient-id=v17_APk4YnTwWyhTs9xV0Q "
 included-patches = "'Spoof client'"
