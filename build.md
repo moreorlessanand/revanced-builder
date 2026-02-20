@@ -1,8 +1,8 @@
 InfinityPlus: 8.1.1  
-GooglePhotos: 7.63.0.869312946  
 Cricbuzz: 6.24.01  
 Music: 8.10.52  
 TikTok: 36.5.4  
+GooglePhotos: 7.64.0.870575488  
 YouTube: 20.14.43  
 inshorts: 6.12.4  
 
